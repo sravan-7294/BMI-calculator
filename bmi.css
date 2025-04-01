@@ -4,6 +4,7 @@ body {
   font-family: "Times New Roman", Times, serif;
 }
 header {
+  width:100vw;
   margin-top: 0px;
   padding: 15px 0px 15px 0px;
   position: relative;
@@ -64,6 +65,7 @@ form {
   font-size: xx-large;
 }
 footer {
+  width:100vw;
   margin-top: 210px;
   margin-bottom: 0px;
   padding: 5px 0px 5px 0px;
